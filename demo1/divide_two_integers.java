@@ -1,13 +1,16 @@
 
 
-/* 001 整数除法 剑指Offer
+/*
+001 整数除法 剑指Offer
 */
 
 
 
 
 public class divide_two_integers {
+
     public int divide(int a,int b){
+        System.out.println("剑指Offer 001 整数除法");
         if(a==Integer.MIN_VALUE&&b==-1)
          return Integer.MAX_VALUE;
         int sign=(a>0^(b>0))?-1:1;

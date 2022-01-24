@@ -3,7 +3,7 @@
 
 public class replaceSpace {
     public String replaceSpace(String s) {
-
+        System.out.println("剑指Offer 05 替换空格");
         StringBuilder res = new StringBuilder();
         for(Character c : s.toCharArray())
         {
