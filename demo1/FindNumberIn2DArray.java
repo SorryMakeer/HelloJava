@@ -4,7 +4,7 @@
 
 
 
-public class find_Number_In_2DArray {
+public class FindNumberIn2DArray {
 
     public boolean findNumberIn2DArray(int[][] matrix, int target) {
         System.out.println("剑指Offer 004 二维数组中的查找");

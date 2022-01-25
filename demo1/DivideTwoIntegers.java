@@ -7,7 +7,7 @@
 
 
 
-public class divide_two_integers {
+public class DivideTwoIntegers {
 
     public int divide(int a,int b){
         System.out.println("剑指Offer 001 整数除法");

@@ -1,7 +1,7 @@
 /* 剑指Offer 05 替换空格*/
 
 
-public class replaceSpace {
+public class ReplaceSpace {
     public String replaceSpace(String s) {
         System.out.println("剑指Offer 05 替换空格");
         StringBuilder res = new StringBuilder();
